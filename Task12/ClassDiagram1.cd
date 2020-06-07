@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task12.TreeNode">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAAAAAAAQAEAAAAAAAAAAAAAIABACjACRCAAAgAA=</HashCode>
+      <FileName>Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task12.Program">
+    <Position X="2" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAQEAEBAAAQAAAABAEgAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task12.OList">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAEAAAAAAEAAABAAAACAAAAAAAACAAAAQAAIAAAA=</HashCode>
+      <FileName>OList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task12.biNode">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAA=</HashCode>
+      <FileName>biNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task12.biList">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAABAAAAAAAAAAAAFAAAAAAAAAIAgA=</HashCode>
+      <FileName>biList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
